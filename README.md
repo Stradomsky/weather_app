@@ -12,6 +12,8 @@ Application requests access to the user's geolocation upon visit to provide imme
 - React
 - Typescript
 - Styled-components
+- HTML
+- CSS
 
 # Authors
 - [Daniel Partatus](https://github.com/DanP412)
